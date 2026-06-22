@@ -1,0 +1,9 @@
+,statistic,pvalue,df_constraint
+Intercept,[[92851.19497345]],0.0,1
+C(topology),[[18.83072783]],8.146281360838355e-05,2
+C(strategy),[[19.74091299]],5.167913205687825e-05,2
+C(fraction),[[2760.12599564]],0.0,2
+C(topology):C(strategy),[[12.40869332]],0.014557308454446832,4
+C(topology):C(fraction),[[511.01787754]],2.773194422783839e-109,4
+C(strategy):C(fraction),[[813.41862986]],9.522246530387509e-175,4
+C(topology):C(strategy):C(fraction),[[489.18455413]],1.4704094319535459e-100,8

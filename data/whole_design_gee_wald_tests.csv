@@ -1,0 +1,25 @@
+outcome,term,chi_square,df,p_value
+Cumulative exposure,Intercept,92851.19497343965,1,0.0
+Cumulative exposure,C(topology),18.830727833171427,2,8.146281360842418e-05
+Cumulative exposure,C(strategy),19.74091298639143,2,5.167913205689335e-05
+Cumulative exposure,C(coverage),2760.125995635705,2,0.0
+Cumulative exposure,C(topology):C(strategy),12.408693317316143,4,0.014557308454450144
+Cumulative exposure,C(topology):C(coverage),511.01787754477306,4,2.77319442281478e-109
+Cumulative exposure,C(strategy):C(coverage),813.4186298599604,4,9.522246530437974e-175
+Cumulative exposure,C(topology):C(strategy):C(coverage),489.1845541340772,8,1.4704094319556026e-100
+Peak active spreaders,Intercept,158829.05357745342,1,0.0
+Peak active spreaders,C(topology),1282.7381584625487,2,2.8638352244029354e-279
+Peak active spreaders,C(strategy),607.4318774334001,2,1.2526904001531601e-132
+Peak active spreaders,C(coverage),8401.118148740043,2,0.0
+Peak active spreaders,C(topology):C(strategy),306.2247588939654,4,4.9201236907487215e-65
+Peak active spreaders,C(topology):C(coverage),1942.3882609336347,4,0.0
+Peak active spreaders,C(strategy):C(coverage),4501.101167447192,4,0.0
+Peak active spreaders,C(topology):C(strategy):C(coverage),2150.1899750449356,8,0.0
+Final outbreak size,Intercept,4722647.631180514,1,0.0
+Final outbreak size,C(topology),2120.8666369840103,2,0.0
+Final outbreak size,C(strategy),539.67989429378,2,6.45654165167984e-118
+Final outbreak size,C(coverage),15982.327981473365,2,0.0
+Final outbreak size,C(topology):C(strategy),512.5069204468681,4,1.3209837687354847e-109
+Final outbreak size,C(topology):C(coverage),4246.76780780756,4,0.0
+Final outbreak size,C(strategy):C(coverage),6428.621113548891,4,0.0
+Final outbreak size,C(topology):C(strategy):C(coverage),5554.585634183872,8,0.0
